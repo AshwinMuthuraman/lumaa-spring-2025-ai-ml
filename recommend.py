@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Simple Content-Based Recommendation System
+Content-Based Recommendation System
 --------------------------------------------
 This script loads a movie dataset, converts plot summaries to TF-IDF vectors,
 and computes cosine similarity between a user-provided query and movie plots.
