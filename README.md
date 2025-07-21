@@ -1,4 +1,4 @@
-# Simple Content-Based Recommendation System
+# Content-Based Recommendation System
 
 ## Overview
 This project implements a content-based recommendation system for movies. Given a short text description of a user's preferences, the system returns the top 3–5 similar movies based on their plot summaries.
